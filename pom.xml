@@ -8,5 +8,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>kaggle-jobs-board</module>
+	<module>news</module>
     </modules>
 </project>
